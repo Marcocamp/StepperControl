@@ -23,7 +23,7 @@ Il sistema include debounce software, gestione della priorità dei pulsanti e lo
 - Driver stepper con limite di velocità configurabile
 
 
-## 🧰 Hardware richiesto
+##  Hardware richiesto
 
 - Arduino Mega, UNO/Nano o compatibile
 - Driver stepper (A4988, DRV8825, TMC)
@@ -105,6 +105,7 @@ Cambio stato: Vibrazione
 Cambio stato: Pausa
 
 ## Struttura del progetto
+
 ├── Stepper-Motor-Control
 │   ├── src/
 │   │   └── main.cpp
